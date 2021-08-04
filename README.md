@@ -1,2 +1,2 @@
 # Cloud-Architect-Project-Portfolio
-Github Page hosting my Cloud Architect Project Portfolio
+Github Page hosting DeWitt Gibson's Cloud Architect Project Portfolio
