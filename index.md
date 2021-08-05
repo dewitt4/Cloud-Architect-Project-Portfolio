@@ -1,3 +1,5 @@
+# DeWitt Gibson
+
 ## Cloud DevOps
 
 1.	Multi-Cloud CI using GitHub Actions and Docker Plus AWS, AZURE, GCP
@@ -46,20 +48,3 @@
 [FinOptimized - My Consulting Practice](https://finoptimized.com) 
 
 [Mobile Workforce - My Blog on Remote Working](https://mobileworkforce.io)
-
-
-
-
-
-
-
-
-
-
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
