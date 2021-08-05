@@ -45,6 +45,6 @@
 
 ## Websites I Am Webmaster For:
 
-[FinOptimized - My Consulting Practice](https://finoptimized.com) 
+[FinOptimized - My Consulting Practice](https://www.finoptimized.com)
 
 [Mobile Workforce - My Blog on Remote Working](https://mobileworkforce.io)
