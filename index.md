@@ -41,7 +41,7 @@
 8.	Checklist for Building a Professional Web Service 
 9.	Deploying a Flask Machine Learning Model that You didn’t Build 
 
-## Websites I am webmaster for:
+## Websites I Am Webmaster For:
 
 [Link]FinOptimized - My Consulting Pricatice (https://finoptimized.com)
 
