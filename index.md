@@ -41,7 +41,11 @@
 8.	Checklist for Building a Professional Web Service 
 9.	Deploying a Flask Machine Learning Model that You didn’t Build 
 
+## Websites I am webmaster for:
 
+[Link]FinOptimized - My Consulting Pricatice (https://finoptimized.com)
+
+[Link]Mobile Workforce - My Blog on Remote Working (https://mobileworkforce.io)
 
 
 
