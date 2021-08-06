@@ -48,3 +48,5 @@
 [FinOptimized - My Consulting Practice](https://www.finoptimized.com)
 
 [Mobile Workforce - My Blog on Remote Working](https://mobileworkforce.io)
+
+[My LinkedIn Profile](https://www.linkedin.com/in/dewitt-gibson/)
